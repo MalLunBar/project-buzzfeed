@@ -1,0 +1,14 @@
+body {
+  background-image: url("Images/DNA.png");
+  background-attachment: fixed;
+  background-size: cover; /* woop woop!! :D */
+}
+
+.header {
+  background-color: rgb(102, 204, 255);
+}
+
+.content {
+    background-color: rgb(255, 255, 255, 0.5);
+}
+
